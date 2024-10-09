@@ -1,8 +1,10 @@
 # AWS Cloud Networking: Configuring Secure Access Between EC2 Instances in Public and Private Subnets
 
-# VPC Communication Project
+## Project Overview
+![Test Connectivity Diagram](https://github.com/user-attachments/assets/5b743de9-9197-46ed-ba12-4fddaa27ce37)
 
-This project is a continuation of my previous AWS Cloud Networking projects, where I explore secure communication between EC2 instances within a VPC. I created two EC2 instances—one in a private subnet and another in a public subnet—and set up network configurations to allow controlled communication between them.
+
+This project is a continuation of my previous AWS Cloud Networking projects, where I explore secure communication between EC2 instances within a VPC. I created two EC2 instances—one in a private subnet and another in a public subnet—and set up network configurations to allow controlled communication between them. (The blue arrows demonstrates the connectivity test.)
 
 ## Steps
 
